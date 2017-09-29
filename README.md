@@ -14,7 +14,7 @@ For Information Extraction it is important to recognize named entities and their
 In the following mini-projects I test some of the most popular models.
 
 - [Hidden Markov Models (HMM)](https://github.com/adtabora/small-ML-projects/blob/master/HMM.ipynb): Train a NLTK HMM tagger and use it for NER.
-- Conditional Random Field (CRF).  ** In Progress ** : Train a CRF a more general model than HMM that is discriminative.
+- [Conditional Random Field (CRF)](https://github.com/adtabora/small-ML-projects/blob/master/CRF%20.ipynb): Train a CRF a more general model than HMM that is discriminative.
 The library used is sklearn-crfsuite.
 
 ### Relation Extraction
